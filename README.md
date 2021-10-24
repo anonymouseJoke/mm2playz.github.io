@@ -2,7 +2,7 @@
 
 
 ```js
-var sheetName = 'Sheet1'
+var sheetName = 'mm2playz'
 var scriptProp = PropertiesService.getScriptProperties()
 
 function intialSetup () {
